@@ -19,16 +19,17 @@ Please read the [contribution guidelines](./contributing.md) or [creating a list
 * [Contest Collections](#contest-collections)
     * [International](#international)
         * [Junior](#junior)
-    * [USA 🇺🇸](#usa-��)
+    * [USA ðŸ‡ºðŸ‡¸](#usa-ŸŸ)
 * [License](#license)
 
 <!-- END_TOC -->
 
 # Websites
 
-1. [Art of Problem Solving](https://artofproblemsolving.com/): contains discussion forums, contest lists, and various math trainers (Alcumus, [MathCounts](https://artofproblemsolving.com/mathcounts_trainer), [Math Jams](https://artofproblemsolving.com/school/mathjams), [FTW](https://artofproblemsolving.com/ftw)).
+1. [Art of Problem Solving](https://artofproblemsolving.com/):Â contains discussion forums, contest lists, and various math trainers (Alcumus, [MathCounts](https://artofproblemsolving.com/mathcounts_trainer), [Math Jams](https://artofproblemsolving.com/school/mathjams), [FTW](https://artofproblemsolving.com/ftw)).
 1. [IMO Math](https://imomath.com)
 1. [IMO Geometry](https://imogeometry.blogspot.com)
+2. [Wiingy Math](https://wiingy.com/learn/math/) 
 
 ### Practice
 
@@ -96,7 +97,7 @@ Please read the [contribution guidelines](./contributing.md) or [creating a list
 1. [JBMO](https://artofproblemsolving.com/community/c3227_junior_balkan_mo)
    1. [Shortlist](https://artofproblemsolving.com/community/c3240_jbmo_shortlists)
 
-## USA 🇺🇸
+## USA ðŸ‡ºðŸ‡¸
 
 1. Putnam
 1. AMC
